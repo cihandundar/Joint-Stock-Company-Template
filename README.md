@@ -1,2 +1,2 @@
-# Joint-Stock-Company-Template
+# Joint-Stock-Company
  
